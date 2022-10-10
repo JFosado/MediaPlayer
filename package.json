@@ -1,0 +1,19 @@
+{
+  "name": "mediaplayer",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Profecional de JS de la escuela de JavasCript de Platzi",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFosado/MediaPlayer.git"
+  },
+  "keywords": [],
+  "author": "Jose Angel Fosado Animas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JFosado/MediaPlayer/issues"
+  },
+  "homepage": "https://github.com/JFosado/MediaPlayer#readme"
+}
